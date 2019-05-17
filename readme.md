@@ -12,3 +12,5 @@ There are two ways to start using this repository:
   ```bash
   git clone git@github.com:zeit/next-learn-demo.git
   ```
+
+* https://8-deploying.weikee070194.now.sh
